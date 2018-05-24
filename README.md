@@ -1,5 +1,5 @@
 # RTAPV
-IOT based pollution measuring device
+IOT based (real time) pollution measuring device
 
 ABSTRACT
 
